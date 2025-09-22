@@ -3,8 +3,8 @@ streamlit
 torch
 monai
 torchvision
-opencv-python
 numpy
 matplotlib
 
 stable-baselines3
+
